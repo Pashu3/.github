@@ -107,14 +107,6 @@ Admin dashboard with real-time analytics, inventory management, and order proces
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pashu3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pashu3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Pashu3&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pashu3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub trophies"/>
-
 </div>
 
 ---
