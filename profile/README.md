@@ -2,19 +2,18 @@
 
 # Pashupathi Mali
 
-### Product Engineer · Full-stack · AI Infrastructure
-
-I design and build production software across **interfaces, APIs, data, and AI systems.**
+### Full-stack Engineer · Building systems that hold up in production
 
 <p>
-  <a href="https://www.linkedin.com/in/mali-pashupathi/">LinkedIn</a>
-  ·
-  <a href="mailto:pashupathimali03@gmail.com">Email</a>
-  ·
-  <a href="https://routeplex.com">RoutePlex</a>
-  ·
-  <a href="https://syndie.io">Syndie.io</a>
+  <a href="https://www.linkedin.com/in/mali-pashupathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pashupathimali03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://routeplex.com"><img src="https://img.shields.io/badge/RoutePlex-7C3AED?style=for-the-badge&logoColor=white" alt="RoutePlex"/></a>
+  <a href="https://syndie.io"><img src="https://img.shields.io/badge/syndie.io-111111?style=for-the-badge&logoColor=white" alt="syndie.io"/></a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+Python;System+design+%C2%B7+Multi-tenant+%C2%B7+AI+infrastructure;Simplicity+over+cleverness." alt="Typing animation"/>
+
+<img src="https://komarev.com/ghpvc/?username=Pashu3&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -22,109 +21,96 @@ I design and build production software across **interfaces, APIs, data, and AI s
 
 ## About
 
-I'm a **Product Engineer at [Syndie.io](https://syndie.io)**, working across frontend and backend systems for production SaaS products.
+Full-stack engineer at **[syndie.io](https://syndie.io)**, working across frontend and backend systems that need to stay reliable as complexity grows. On the side, I'm building **[RoutePlex](https://routeplex.com)** — an AI gateway that handles routing, fallback, and cost predictability across 30+ model providers, behind one OpenAI-compatible API.
 
-Outside of work, I'm building **[RoutePlex](https://routeplex.com)** — an AI gateway that provides routing, fallback, and cost governance across 30+ model providers through a single OpenAI-compatible API.
-
-I enjoy working on problems where **product, engineering, and system design overlap** — from designing interfaces and APIs to building multi-tenant systems and reliable infrastructure.
-
-I value **simplicity over cleverness** and **long-term reliability over short-term speed**.
+I focus on system design, multi-tenant architectures, and authorization boundaries. I value simplicity over cleverness, and long-term reliability over short-term speed.
 
 ```text
 currently  →  building RoutePlex
-working at →  Syndie.io · Product Engineer
-based in   →  Hyderabad, India
-interested →  product engineering · system design · AI infrastructure
+working at →  syndie.io · Full-stack Engineer
+location   →  Hyderabad, India · GMT+5:30
+ask me     →  system design · multi-tenant architectures · AI infrastructure
+email      →  pashupathimali03@gmail.com
 ```
 
 ---
 
-## What I Work With
+## Tech Stack
 
-### Frontend
+**Languages**
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
+**Frontend**
 
-`Node.js` · `NestJS` · `FastAPI` · `Django` · `Express`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### Data & Infrastructure
+**Backend**
 
-`PostgreSQL` · `Redis` · `MongoDB` · `Vercel` · `Stripe`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Other
+**Databases & Infra**
 
-`Python` · `React Native` · `Electron` · `Docker` · `GitHub Actions`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
 ## Selected Work
 
 ### [RoutePlex](https://routeplex.com)
+> One API on top of every model that matters.
 
-**AI infrastructure for applications that use multiple models.**
-
-An AI gateway built around routing, automatic fallback, cost visibility, and provider abstraction. Exposes a single OpenAI-compatible API across 30+ model providers.
+An AI gateway that handles routing, fallback, and cost predictability across 30+ models — exposed through a single OpenAI-compatible API. Smart routing, automatic failover, and real-time cost governance.
 
 `Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Redis`
 
----
-
 ### ClarityHub
+> Plain-English answers from messy spreadsheets.
 
-**Turn messy spreadsheets into useful answers.**
+AI SaaS that turns uploaded CSVs into plain-English insights. Freemium with Stripe billing, OAuth, admin dashboards, FastAPI backend.
 
-An AI-powered SaaS application that transforms uploaded CSV data into visual insights and plain-English answers, with authentication, billing, and an administrative layer.
-
-`Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Stripe`
-
----
+`Next.js` · `TypeScript` · `FastAPI` · `Stripe` · `PostgreSQL`
 
 ### E-commerce Dashboard
+> Real-time clarity for shops that were flying blind.
 
-**Real-time operations and analytics for online stores.**
+Admin dashboard with real-time analytics, inventory management, and order processing. Charts that don't lag at scale.
 
-A full-stack dashboard covering analytics, inventory, order processing, and real-time updates, with an emphasis on responsive data-heavy interfaces.
-
-`React` · `Redux Toolkit` · `D3.js` · `Node.js` · `WebSocket`
-
----
-
-## Engineering Interests
-
-- **Product engineering** — turning complex workflows into simple interfaces
-- **System design** — designing systems that remain maintainable as they grow
-- **Multi-tenancy** — isolation, authorization, and scalable application architecture
-- **AI infrastructure** — provider abstraction, routing, fallbacks, and cost control
-- **Performance** — making production applications faster and more reliable
+`React` · `Redux Toolkit` · `D3.js` · `Node` · `WebSocket`
 
 ---
 
-## Experience
+## GitHub Stats
 
-### Syndie.io
-**Product Engineer · 2025 — Present**
+<div align="center">
 
-Building production SaaS systems across frontend, backend, automation, and AI-powered workflows.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pashu3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pashu3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-### Relish Development & Solutions
-**Frontend Developer · 2024 — 2025**
-
-Built and shipped web applications with React, JavaScript, and modern frontend tooling.
+</div>
 
 ---
 
 <div align="center">
-
-### Building things that are simple on the surface and reliable underneath.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/mali-pashupathi/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://routeplex.com">RoutePlex</a>
-&nbsp;·&nbsp;
-<a href="mailto:pashupathimali03@gmail.com">Email</a>
-
+  <sub><i>"I value simplicity over cleverness, and long-term reliability over short-term speed."</i></sub>
 </div>
